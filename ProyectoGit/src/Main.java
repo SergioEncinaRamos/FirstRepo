@@ -33,4 +33,12 @@ public class Main {
     //Comentario para la actividad del rebase
 
     //Otro comentario del developer 1
+
+    //Primer comentario para el rebase con squash local
+
+    //Segundo comentario para el rebase con squash local
+
+    //Tercer comentario para el rebase con squash local
+
+    //Cuarto comentario para el rebase con squash local
 }
