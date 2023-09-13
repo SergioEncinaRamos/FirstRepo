@@ -41,4 +41,6 @@ public class Main {
     //Tercer comentario para el rebase con squash local
 
     //Cuarto comentario para el rebase con squash local
+
+    //Comentario para crear conflicto en el cherry-pick
 }
