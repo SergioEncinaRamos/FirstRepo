@@ -24,4 +24,6 @@ public class Main {
     //Comentario 8
 
     //Comentario 9
+
+    //Comentario del developer 2 para la actividad 2
 }
